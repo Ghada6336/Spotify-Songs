@@ -1,6 +1,7 @@
 # spotify
 Spotify powerbi dashboard
 Dashboard :https://app.powerbi.com/view?r=eyJrIjoiYWJlNTljNzEtNDMxNy00M2M3LTgxMDUtZjM2NWIxNzhhMzllIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
 Dataset: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023?resource=download
 
 Spotify Dashboard contains dataset related to music streams, track names, release years, and other related information. The Dashboard seems to consist of a table with various columns, including "Track Name," "Artist Name," "Released Year," "Sum of Streams," and "Date," among others. The dataset  encompass a range of years, from 1930 to 2023, and includes information about the number of streams for specific tracks, such as "Blinding Lights," "Shape of You," "Someone You," and "Dance Monkey," among others. Additionally, there are figures related to the sum of streams for different tracks, with values in the billions, and a count of track names by date, along with average stream values and comparisons to the top song.
